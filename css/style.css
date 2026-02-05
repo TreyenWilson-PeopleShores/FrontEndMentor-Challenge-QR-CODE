@@ -1,0 +1,21 @@
+.curve{
+      border-radius: 10px;
+    }
+    .main-container{
+      display:flex;
+      align-items: center;
+      min-height:min-content;
+
+
+    }
+    .card{
+      max-width: 300px;
+      padding: 1%;
+      box-shadow: 2px 2px 20px rgb(163, 162, 162);
+    
+    }
+
+
+    .text{
+      font-family: "Outfit";
+    }
