@@ -1,3 +1,5 @@
+Link to Blog Challenge: https://github.com/TreyenWilson-PeopleShores/FrontEndMentor-Blog-Preview-Card-Challenge
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
