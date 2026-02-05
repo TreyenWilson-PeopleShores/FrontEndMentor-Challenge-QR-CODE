@@ -1,3 +1,6 @@
+To run this, click run index.html in the browser. Make sure the css is inside the css folder.
+
+=============
 Link to Blog Challenge: https://github.com/TreyenWilson-PeopleShores/FrontEndMentor-Blog-Preview-Card-Challenge
 
 # Frontend Mentor - QR code component
